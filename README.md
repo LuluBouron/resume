@@ -6,3 +6,7 @@
 * Utiliser AssetMapper pour charger des fichiers JS et CSS Mettre en place TailWindCSS
 * Utiliser AlpineJS
 * Utiliser HyperUI
+
+
+
+![Image Alt text](/public/cv.png)

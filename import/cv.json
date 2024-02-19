@@ -1,12 +1,12 @@
 {
     "basics": {
-        "name": "Lucile Bouron",
+        "name": "Lucile Bouron-Alquier",
         "label": "And",
-        "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer that is constantly on the lookout for new ways to",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*AT0GuZ5ytu3ZSObfCN3wUg.png",
+        "summary": "I am a software engineer that is constantly on the lookout for new ways to challenge myself.",
         "email": "lucilebouron.dev@gmail.com",
         "location": {
-            "city": "Sw11",
+            "city": "Toulouse",
             "countryCode": "FR"
         }
     },
@@ -24,14 +24,14 @@
         {
             "highlights": [
                 "In complex ways of searching for (% of benefits > of collection work)",
-                "Developed web app for managing employee"
+                "Developed web food/recipe app"
             ],
             "summary": "financial services, sau is a company whose focus is on delivering top notch web and mobile applications to our clients",
             "website": "http://financial-services-sau.com",
-            "company": "Financial Services, Sau",
-            "position": "Senior Software Engineer, Core Services",
-            "startDate": "2018-01-08",
-            "endDate": "2020-09-08"
+            "company": "LaBase Labs, Paris",
+            "position": "Back-end Developer",
+            "startDate": "2021-01-08",
+            "endDate": "2022-09-08"
         },
         {
             "highlights": [
@@ -60,7 +60,7 @@
     ],
     "interests": [
         {
-            "name": "Books"
+            "name": "Reading"
         },
         {
             "name": "Learning As A Hobby"
