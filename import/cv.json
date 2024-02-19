@@ -1,13 +1,13 @@
 {
     "basics": {
-        "name": "Abel",
+        "name": "Lucile Bouron",
         "label": "And",
         "image": "https://www.thispersondoesnotexist.com/image",
         "summary": "I am a software engineer that is constantly on the lookout for new ways to",
-        "email": "abel@gmail.com",
+        "email": "lucilebouron.dev@gmail.com",
         "location": {
             "city": "Sw11",
-            "countryCode": "US"
+            "countryCode": "FR"
         }
     },
     "references": [
@@ -60,7 +60,7 @@
     ],
     "interests": [
         {
-            "name": "Baseball"
+            "name": "Books"
         },
         {
             "name": "Learning As A Hobby"
